@@ -1,0 +1,201 @@
+﻿model,term,n_words,n_tokens,tokens,is_word_level
+MarianMT,amplitude,1,3,▁am pl itude,False
+MarianMT,aquifer,1,1,▁aquifer,True
+MarianMT,appraisal,1,1,▁appraisal,True
+MarianMT,air drilling,2,2,▁air ▁drilling,True
+MarianMT,asphaltenes,1,5,▁as ph al ten es,False
+MarianMT,asphalt,1,3,▁as pha lt,False
+MarianMT,bit,1,1,▁bit,True
+MarianMT,blowout,1,2,▁blow out,False
+MarianMT,blowout preventer (BOP),3,8,▁blow out ▁prevent er ▁( B OP ),False
+MarianMT,borehole,1,2,▁bore hole,False
+MarianMT,beam pump,2,2,▁beam ▁pump,True
+MarianMT,ball valve,2,2,▁ball ▁valve,True
+MarianMT,barrel (bbl),2,5,▁barrel ▁( b bl ),False
+MarianMT,burner,1,1,▁burner,True
+MarianMT,backpressure,1,2,▁back pressure,False
+MarianMT,blinding,1,2,▁blind ing,False
+MarianMT,casing head,2,2,▁casing ▁head,True
+MarianMT,christmas tree,2,4,▁ christ mas ▁tree,False
+MarianMT,compressibility,1,3,▁com press ibility,False
+MarianMT,cementing,1,2,▁cement ing,False
+MarianMT,choke,1,1,▁choke,True
+MarianMT,condensate,1,2,▁condens ate,False
+MarianMT,condensate gas,2,3,▁condens ate ▁gas,False
+MarianMT,corrosion inhibitor,2,3,▁corrosion ▁inhibit or,False
+MarianMT,corrosion-resistant alloy,2,5,▁corrosion - resistant ▁all oy,False
+MarianMT,density,1,1,▁density,True
+MarianMT,dehydrate,1,4,▁de hy d rate,False
+MarianMT,demulsification,1,5,▁de m ul s ification,False
+MarianMT,dense phase,2,2,▁dense ▁phase,True
+MarianMT,derrick floor,2,3,▁der rick ▁floor,False
+MarianMT,desalter,1,3,▁des al ter,False
+MarianMT,decompression,1,3,▁de com pression,False
+MarianMT,exploration,1,1,▁exploration,True
+MarianMT,hydraulic fracturing,2,5,▁hydraulic ▁f rac tur ing,False
+MarianMT,marginal well,2,2,▁marginal ▁well,True
+MarianMT,sedimentary basin,2,3,▁sediment ary ▁basin,False
+MarianMT,sedimentary rocks,2,3,▁sediment ary ▁rocks,False
+MarianMT,pressure,1,1,▁pressure,True
+MarianMT,positive displacement motor,3,3,▁positive ▁displacement ▁motor,True
+MarianMT,recover,1,1,▁recover,True
+MarianMT,rotary drilling,2,2,▁rotary ▁drilling,True
+MarianMT,sweetening,1,2,▁sweet ening,False
+MarianMT,tubing head,2,4,▁tu b ing ▁head,False
+MarianMT,two-phase flow,2,4,▁two - phase ▁flow,False
+MarianMT,two-phase separator,2,4,▁two - phase ▁separator,False
+MarianMT,air-foam,1,4,▁air - fo am,False
+MarianMT,clutch,1,1,▁clutch,True
+MarianMT,coalescer,1,4,▁coal es c er,False
+MarianMT,coalescing filter,2,5,▁coal es c ing ▁filter,False
+MarianMT,coupling,1,1,▁coupling,True
+MarianMT,covalent union,2,4,▁co val ent ▁union,False
+MarianMT,gas anchor,2,2,▁gas ▁anchor,True
+MarianMT,gasometer,1,2,▁gas ometer,False
+MarianMT,permafrost,1,4,▁per ma fr ost,False
+MarianMT,bubble flow,2,2,▁bubble ▁flow,True
+MarianMT,bubble point,2,2,▁bubble ▁point,True
+MarianMT,bundle,1,1,▁bundle,True
+MarianMT,bulk boat,2,2,▁bulk ▁boat,True
+MarianMT,bushwash,1,2,▁bush wash,False
+MarianMT,flow loop,2,2,▁flow ▁loop,True
+MarianMT,water hammer,2,2,▁water ▁hammer,True
+MarianMT,cracking,1,2,▁crack ing,False
+MarianMT,crane,1,1,▁crane,True
+MarianMT,crankshaft,1,4,▁c rank sha ft,False
+MarianMT,adsorbed gas,2,5,▁ad s or bed ▁gas,False
+MarianMT,adsorption,1,2,▁ad sorption,False
+MarianMT,azimuth,1,4,▁a zi mu th,False
+MarianMT,nitrogen cushion,2,2,▁nitrogen ▁cushion,True
+MarianMT,centrifugal pump,2,5,▁cent rif ug al ▁pump,False
+MarianMT,three-phase separator,2,4,▁three - phase ▁separator,False
+MarianMT,cold production,2,2,▁cold ▁production,True
+MarianMT,buster,1,2,▁bus ter,False
+MarianMT,slam retarder,2,4,▁s lam ▁retard er,False
+MarianMT,generator,1,1,▁generator,True
+MarianMT,sealing,1,1,▁sealing,True
+MarianMT,accumulator,1,2,▁accumulat or,False
+MarianMT,downhole gauge,2,3,▁down hole ▁gauge,False
+MarianMT,archie rock,2,3,▁arch ie ▁rock,False
+MarianMT,drilling rig,2,2,▁drilling ▁rig,True
+MarianMT,drilling contractor,2,2,▁drilling ▁contractor,True
+MarianMT,acid gas,2,2,▁acid ▁gas,True
+MarianMT,acetic acid,2,2,▁acetic ▁acid,True
+MarianMT,acid inhibitor,2,3,▁acid ▁inhibit or,False
+MarianMT,gas field,2,2,▁gas ▁field,True
+MarianMT,spacer fluid,2,3,▁space r ▁fluid,False
+MarianMT,crown valve,2,2,▁crown ▁valve,True
+MarianMT,gross production,2,2,▁gross ▁production,True
+MarianMT,fan,1,1,▁fan,True
+MarianMT,duct,1,2,▁ duct,False
+MarianMT,wax,1,1,▁wax,True
+MarianMT,well flow rate,3,3,▁well ▁flow ▁rate,True
+MarianMT,degasser,1,4,▁de gas s er,False
+MarianMT,gas blanket,2,2,▁gas ▁blanket,True
+MarianMT,butane,1,2,▁but ane,False
+MarianMT,tankage,1,2,▁tank age,False
+MarianMT,pigging,1,2,▁pig ging,False
+MarianMT,air-powered,1,3,▁air - powered,False
+MarianMT,roto-rabbit,1,5,▁ro to - rab bit,False
+MarianMT,cap the well,3,3,▁cap ▁the ▁well,True
+MarianMT,all-welded,1,4,▁all - wel ded,False
+NLLB,amplitude,1,2,▁ampli tude,False
+NLLB,aquifer,1,2,▁aqui fer,False
+NLLB,appraisal,1,3,▁app rais al,False
+NLLB,air drilling,2,3,▁air ▁dr illing,False
+NLLB,asphaltenes,1,4,▁as ph alten es,False
+NLLB,asphalt,1,3,▁as ph alt,False
+NLLB,bit,1,1,▁bit,True
+NLLB,blowout,1,3,▁blo wo ut,False
+NLLB,blowout preventer (BOP),3,9,▁blo wo ut ▁prevent er ▁( BO P ),False
+NLLB,borehole,1,2,▁bore hole,False
+NLLB,beam pump,2,3,▁be am ▁pump,False
+NLLB,ball valve,2,3,▁ball ▁val ve,False
+NLLB,barrel (bbl),2,6,▁bar rel ▁( bb l ),False
+NLLB,burner,1,2,▁bur ner,False
+NLLB,backpressure,1,3,▁back press ure,False
+NLLB,blinding,1,2,▁bl inding,False
+NLLB,casing head,2,3,▁cas ing ▁head,False
+NLLB,christmas tree,2,3,▁christ mas ▁tree,False
+NLLB,compressibility,1,3,▁compres si bility,False
+NLLB,cementing,1,2,▁cement ing,False
+NLLB,choke,1,2,▁ch oke,False
+NLLB,condensate,1,3,▁cond ens ate,False
+NLLB,condensate gas,2,4,▁cond ens ate ▁gas,False
+NLLB,corrosion inhibitor,2,4,▁corr osion ▁inhibit or,False
+NLLB,corrosion-resistant alloy,2,8,▁corr osion - res ist ant ▁allo y,False
+NLLB,density,1,2,▁dens ity,False
+NLLB,dehydrate,1,3,▁deh yd rate,False
+NLLB,demulsification,1,4,▁dem ul si fication,False
+NLLB,dense phase,2,3,▁den se ▁phase,False
+NLLB,derrick floor,2,3,▁der rick ▁floor,False
+NLLB,desalter,1,2,▁des alter,False
+NLLB,decompression,1,3,▁dec om pression,False
+NLLB,exploration,1,2,▁expl oration,False
+NLLB,hydraulic fracturing,2,6,▁hyd rau lic ▁fra ct uring,False
+NLLB,marginal well,2,3,▁margin al ▁well,False
+NLLB,sedimentary basin,2,4,▁sed iment ary ▁basin,False
+NLLB,sedimentary rocks,2,5,▁sed iment ary ▁ro cks,False
+NLLB,pressure,1,1,▁pressure,True
+NLLB,positive displacement motor,3,5,▁positive ▁dis pla cement ▁motor,False
+NLLB,recover,1,2,▁rec over,False
+NLLB,rotary drilling,2,4,▁rot ary ▁dr illing,False
+NLLB,sweetening,1,2,▁sweet ening,False
+NLLB,tubing head,2,3,▁tu bing ▁head,False
+NLLB,two-phase flow,2,5,▁two - ph ase ▁flow,False
+NLLB,two-phase separator,2,6,▁two - ph ase ▁separ ator,False
+NLLB,air-foam,1,4,▁air - fo am,False
+NLLB,clutch,1,3,▁c lut ch,False
+NLLB,coalescer,1,3,▁coa les cer,False
+NLLB,coalescing filter,2,4,▁coa les cing ▁filter,False
+NLLB,coupling,1,2,▁cou pling,False
+NLLB,covalent union,2,4,▁c oval ent ▁union,False
+NLLB,gas anchor,2,3,▁gas ▁anch or,False
+NLLB,gasometer,1,2,▁gas ometer,False
+NLLB,permafrost,1,4,▁per ma fr ost,False
+NLLB,bubble flow,2,3,▁bub ble ▁flow,False
+NLLB,bubble point,2,3,▁bub ble ▁point,False
+NLLB,bundle,1,2,▁bund le,False
+NLLB,bulk boat,2,3,▁bul k ▁boat,False
+NLLB,bushwash,1,2,▁bush wash,False
+NLLB,flow loop,2,2,▁flow ▁loop,True
+NLLB,water hammer,2,3,▁water ▁ham mer,False
+NLLB,cracking,1,2,▁cra cking,False
+NLLB,crane,1,2,▁cr ane,False
+NLLB,crankshaft,1,4,▁c ran ks haft,False
+NLLB,adsorbed gas,2,4,▁ad sor bed ▁gas,False
+NLLB,adsorption,1,3,▁ad sor ption,False
+NLLB,azimuth,1,2,▁azim uth,False
+NLLB,nitrogen cushion,2,3,▁nitrogen ▁cus hion,False
+NLLB,centrifugal pump,2,4,▁cent rif ugal ▁pump,False
+NLLB,three-phase separator,2,6,▁three - ph ase ▁separ ator,False
+NLLB,cold production,2,2,▁cold ▁production,True
+NLLB,buster,1,2,▁bus ter,False
+NLLB,slam retarder,2,4,▁s lam ▁ret arder,False
+NLLB,generator,1,1,▁generator,True
+NLLB,sealing,1,2,▁se aling,False
+NLLB,accumulator,1,3,▁acc um ulator,False
+NLLB,downhole gauge,2,4,▁down hole ▁ga uge,False
+NLLB,archie rock,2,3,▁arch ie ▁rock,False
+NLLB,drilling rig,2,3,▁dr illing ▁rig,False
+NLLB,drilling contractor,2,4,▁dr illing ▁contra ctor,False
+NLLB,acid gas,2,2,▁acid ▁gas,True
+NLLB,acetic acid,2,3,▁ac etic ▁acid,False
+NLLB,acid inhibitor,2,3,▁acid ▁inhibit or,False
+NLLB,gas field,2,2,▁gas ▁field,True
+NLLB,spacer fluid,2,4,▁spa cer ▁flu id,False
+NLLB,crown valve,2,4,▁cro wn ▁val ve,False
+NLLB,gross production,2,2,▁gross ▁production,True
+NLLB,fan,1,1,▁fan,True
+NLLB,duct,1,2,▁du ct,False
+NLLB,wax,1,1,▁wax,True
+NLLB,well flow rate,3,3,▁well ▁flow ▁rate,True
+NLLB,degasser,1,2,▁deg asser,False
+NLLB,gas blanket,2,3,▁gas ▁blan ket,False
+NLLB,butane,1,2,▁but ane,False
+NLLB,tankage,1,2,▁tank age,False
+NLLB,pigging,1,2,▁pig ging,False
+NLLB,air-powered,1,4,▁air - power ed,False
+NLLB,roto-rabbit,1,5,▁roto - ra bb it,False
+NLLB,cap the well,3,3,▁cap ▁the ▁well,True
+NLLB,all-welded,1,5,▁all - w eld ed,False
